@@ -1,0 +1,1001 @@
+Color 1 Name,Color 1 Hex,Color 2 Name,Color 2 Hex
+Navy Blue,#001f3f,White,#FFFFFF
+Olive Green,#3D9970,Beige,#F5F5DC
+Rust Orange,#B7410E,Cream,#FFFDD0
+Lavender,#E6E6FA,Gray,#808080
+Red,#FF4136,Black,#111111
+Cobalt Blue,#0047AB,Yellow,#FFFF00
+Mint Green,#98FF98,Peach,#FFDAB9
+White,#FFFFFF,Camel Brown,#C19A6B
+Emerald Green,#50C878,Gold,#FFD700
+Baby Blue,#89CFF0,Light Pink,#FFB6C1
+Purple,#800080,Silver,#C0C0C0
+Black,#000000,Maroon,#800000
+Teal,#008080,Coral,#FF7F50
+Rose Pink,#FF66CC,Champagne,#F7E7CE
+Mustard Yellow,#FFDB58,Olive Green,#808000
+Gray,#BEBEBE,Sky Blue,#87CEEB
+Burgundy,#800020,Blush Pink,#DE5D83
+Denim Blue,#1560BD,Ivory,#FFFFF0
+Turquoise,#40E0D0,Chocolate Brown,#D2691E
+Charcoal Gray,#36454F,Light Beige,#F5F5DC
+Navy Blue Variant,#001f3f,White Variant,#FFFFFF
+Olive Green Variant,#3D9970,Beige Variant,#F5F5DC
+Rust Orange Variant,#B7410E,Cream Variant,#FFFDD0
+Lavender Variant,#E6E6FA,Gray Variant,#808080
+Red Variant,#FF4136,Black Variant,#111111
+Cobalt Blue Variant,#0047AB,Yellow Variant,#FFFF00
+Mint Green Variant,#98FF98,Peach Variant,#FFDAB9
+White Variant,#FFFFFF,Camel Brown Variant,#C19A6B
+Emerald Green Variant,#50C878,Gold Variant,#FFD700
+Baby Blue Variant,#89CFF0,Light Pink Variant,#FFB6C1
+Purple Variant,#800080,Silver Variant,#C0C0C0
+Black Variant,#000000,Maroon Variant,#800000
+Teal Variant,#008080,Coral Variant,#FF7F50
+Rose Pink Variant,#FF66CC,Champagne Variant,#F7E7CE
+Mustard Yellow Variant,#FFDB58,Olive Green Variant,#808000
+Gray Variant,#BEBEBE,Sky Blue Variant,#87CEEB
+Burgundy Variant,#800020,Blush Pink Variant,#DE5D83
+Denim Blue Variant,#1560BD,Ivory Variant,#FFFFF0
+Turquoise Variant,#40E0D0,Chocolate Brown Variant,#D2691E
+Charcoal Gray Variant,#36454F,Light Beige Variant,#F5F5DC
+Navy Blue Variant,#001f3f,White Variant,#FFFFFF
+Olive Green Variant,#3D9970,Beige Variant,#F5F5DC
+Rust Orange Variant,#B7410E,Cream Variant,#FFFDD0
+Lavender Variant,#E6E6FA,Gray Variant,#808080
+Red Variant,#FF4136,Black Variant,#111111
+Cobalt Blue Variant,#0047AB,Yellow Variant,#FFFF00
+Mint Green Variant,#98FF98,Peach Variant,#FFDAB9
+White Variant,#FFFFFF,Camel Brown Variant,#C19A6B
+Emerald Green Variant,#50C878,Gold Variant,#FFD700
+Baby Blue Variant,#89CFF0,Light Pink Variant,#FFB6C1
+Purple Variant,#800080,Silver Variant,#C0C0C0
+Black Variant,#000000,Maroon Variant,#800000
+Teal Variant,#008080,Coral Variant,#FF7F50
+Rose Pink Variant,#FF66CC,Champagne Variant,#F7E7CE
+Mustard Yellow Variant,#FFDB58,Olive Green Variant,#808000
+Gray Variant,#BEBEBE,Sky Blue Variant,#87CEEB
+Burgundy Variant,#800020,Blush Pink Variant,#DE5D83
+Denim Blue Variant,#1560BD,Ivory Variant,#FFFFF0
+Turquoise Variant,#40E0D0,Chocolate Brown Variant,#D2691E
+Charcoal Gray Variant,#36454F,Light Beige Variant,#F5F5DC
+Navy Blue Variant,#001f3f,White Variant,#FFFFFF
+Olive Green Variant,#3D9970,Beige Variant,#F5F5DC
+Rust Orange Variant,#B7410E,Cream Variant,#FFFDD0
+Lavender Variant,#E6E6FA,Gray Variant,#808080
+Red Variant,#FF4136,Black Variant,#111111
+Cobalt Blue Variant,#0047AB,Yellow Variant,#FFFF00
+Mint Green Variant,#98FF98,Peach Variant,#FFDAB9
+White Variant,#FFFFFF,Camel Brown Variant,#C19A6B
+Emerald Green Variant,#50C878,Gold Variant,#FFD700
+Baby Blue Variant,#89CFF0,Light Pink Variant,#FFB6C1
+Purple Variant,#800080,Silver Variant,#C0C0C0
+Black Variant,#000000,Maroon Variant,#800000
+Teal Variant,#008080,Coral Variant,#FF7F50
+Rose Pink Variant,#FF66CC,Champagne Variant,#F7E7CE
+Mustard Yellow Variant,#FFDB58,Olive Green Variant,#808000
+Gray Variant,#BEBEBE,Sky Blue Variant,#87CEEB
+Burgundy Variant,#800020,Blush Pink Variant,#DE5D83
+Denim Blue Variant,#1560BD,Ivory Variant,#FFFFF0
+Turquoise Variant,#40E0D0,Chocolate Brown Variant,#D2691E
+Charcoal Gray Variant,#36454F,Light Beige Variant,#F5F5DC
+Navy Blue Variant,#001f3f,White Variant,#FFFFFF
+Olive Green Variant,#3D9970,Beige Variant,#F5F5DC
+Rust Orange Variant,#B7410E,Cream Variant,#FFFDD0
+Lavender Variant,#E6E6FA,Gray Variant,#808080
+Red Variant,#FF4136,Black Variant,#111111
+Cobalt Blue Variant,#0047AB,Yellow Variant,#FFFF00
+Mint Green Variant,#98FF98,Peach Variant,#FFDAB9
+White Variant,#FFFFFF,Camel Brown Variant,#C19A6B
+Emerald Green Variant,#50C878,Gold Variant,#FFD700
+Baby Blue Variant,#89CFF0,Light Pink Variant,#FFB6C1
+Purple Variant,#800080,Silver Variant,#C0C0C0
+Black Variant,#000000,Maroon Variant,#800000
+Teal Variant,#008080,Coral Variant,#FF7F50
+Rose Pink Variant,#FF66CC,Champagne Variant,#F7E7CE
+Mustard Yellow Variant,#FFDB58,Olive Green Variant,#808000
+Gray Variant,#BEBEBE,Sky Blue Variant,#87CEEB
+Burgundy Variant,#800020,Blush Pink Variant,#DE5D83
+Denim Blue Variant,#1560BD,Ivory Variant,#FFFFF0
+Turquoise Variant,#40E0D0,Chocolate Brown Variant,#D2691E
+Charcoal Gray Variant,#36454F,Light Beige Variant,#F5F5DC
+Navy Blue Variant,#001f3f,White Variant,#FFFFFF
+Olive Green Variant,#3D9970,Beige Variant,#F5F5DC
+Rust Orange Variant,#B7410E,Cream Variant,#FFFDD0
+Lavender Variant,#E6E6FA,Gray Variant,#808080
+Red Variant,#FF4136,Black Variant,#111111
+Cobalt Blue Variant,#0047AB,Yellow Variant,#FFFF00
+Mint Green Variant,#98FF98,Peach Variant,#FFDAB9
+White Variant,#FFFFFF,Camel Brown Variant,#C19A6B
+Emerald Green Variant,#50C878,Gold Variant,#FFD700
+Baby Blue Variant,#89CFF0,Light Pink Variant,#FFB6C1
+Purple Variant,#800080,Silver Variant,#C0C0C0
+Black Variant,#000000,Maroon Variant,#800000
+Teal Variant,#008080,Coral Variant,#FF7F50
+Rose Pink Variant,#FF66CC,Champagne Variant,#F7E7CE
+Mustard Yellow Variant,#FFDB58,Olive Green Variant,#808000
+Gray Variant,#BEBEBE,Sky Blue Variant,#87CEEB
+Burgundy Variant,#800020,Blush Pink Variant,#DE5D83
+Denim Blue Variant,#1560BD,Ivory Variant,#FFFFF0
+Turquoise Variant,#40E0D0,Chocolate Brown Variant,#D2691E
+Charcoal Gray Variant,#36454F,Light Beige Variant,#F5F5DC
+Navy Blue Variant,#001f3f,White Variant,#FFFFFF
+Olive Green Variant,#3D9970,Beige Variant,#F5F5DC
+Rust Orange Variant,#B7410E,Cream Variant,#FFFDD0
+Lavender Variant,#E6E6FA,Gray Variant,#808080
+Red Variant,#FF4136,Black Variant,#111111
+Cobalt Blue Variant,#0047AB,Yellow Variant,#FFFF00
+Mint Green Variant,#98FF98,Peach Variant,#FFDAB9
+White Variant,#FFFFFF,Camel Brown Variant,#C19A6B
+Emerald Green Variant,#50C878,Gold Variant,#FFD700
+Baby Blue Variant,#89CFF0,Light Pink Variant,#FFB6C1
+Purple Variant,#800080,Silver Variant,#C0C0C0
+Black Variant,#000000,Maroon Variant,#800000
+Teal Variant,#008080,Coral Variant,#FF7F50
+Rose Pink Variant,#FF66CC,Champagne Variant,#F7E7CE
+Mustard Yellow Variant,#FFDB58,Olive Green Variant,#808000
+Gray Variant,#BEBEBE,Sky Blue Variant,#87CEEB
+Burgundy Variant,#800020,Blush Pink Variant,#DE5D83
+Denim Blue Variant,#1560BD,Ivory Variant,#FFFFF0
+Turquoise Variant,#40E0D0,Chocolate Brown Variant,#D2691E
+Charcoal Gray Variant,#36454F,Light Beige Variant,#F5F5DC
+Navy Blue Variant,#001f3f,White Variant,#FFFFFF
+Olive Green Variant,#3D9970,Beige Variant,#F5F5DC
+Rust Orange Variant,#B7410E,Cream Variant,#FFFDD0
+Lavender Variant,#E6E6FA,Gray Variant,#808080
+Red Variant,#FF4136,Black Variant,#111111
+Cobalt Blue Variant,#0047AB,Yellow Variant,#FFFF00
+Mint Green Variant,#98FF98,Peach Variant,#FFDAB9
+White Variant,#FFFFFF,Camel Brown Variant,#C19A6B
+Emerald Green Variant,#50C878,Gold Variant,#FFD700
+Baby Blue Variant,#89CFF0,Light Pink Variant,#FFB6C1
+Purple Variant,#800080,Silver Variant,#C0C0C0
+Black Variant,#000000,Maroon Variant,#800000
+Teal Variant,#008080,Coral Variant,#FF7F50
+Rose Pink Variant,#FF66CC,Champagne Variant,#F7E7CE
+Mustard Yellow Variant,#FFDB58,Olive Green Variant,#808000
+Gray Variant,#BEBEBE,Sky Blue Variant,#87CEEB
+Burgundy Variant,#800020,Blush Pink Variant,#DE5D83
+Denim Blue Variant,#1560BD,Ivory Variant,#FFFFF0
+Turquoise Variant,#40E0D0,Chocolate Brown Variant,#D2691E
+Charcoal Gray Variant,#36454F,Light Beige Variant,#F5F5DC
+Navy Blue Variant,#001f3f,White Variant,#FFFFFF
+Olive Green Variant,#3D9970,Beige Variant,#F5F5DC
+Rust Orange Variant,#B7410E,Cream Variant,#FFFDD0
+Lavender Variant,#E6E6FA,Gray Variant,#808080
+Red Variant,#FF4136,Black Variant,#111111
+Cobalt Blue Variant,#0047AB,Yellow Variant,#FFFF00
+Mint Green Variant,#98FF98,Peach Variant,#FFDAB9
+White Variant,#FFFFFF,Camel Brown Variant,#C19A6B
+Emerald Green Variant,#50C878,Gold Variant,#FFD700
+Baby Blue Variant,#89CFF0,Light Pink Variant,#FFB6C1
+Purple Variant,#800080,Silver Variant,#C0C0C0
+Black Variant,#000000,Maroon Variant,#800000
+Teal Variant,#008080,Coral Variant,#FF7F50
+Rose Pink Variant,#FF66CC,Champagne Variant,#F7E7CE
+Mustard Yellow Variant,#FFDB58,Olive Green Variant,#808000
+Gray Variant,#BEBEBE,Sky Blue Variant,#87CEEB
+Burgundy Variant,#800020,Blush Pink Variant,#DE5D83
+Denim Blue Variant,#1560BD,Ivory Variant,#FFFFF0
+Turquoise Variant,#40E0D0,Chocolate Brown Variant,#D2691E
+Charcoal Gray Variant,#36454F,Light Beige Variant,#F5F5DC
+Navy Blue Variant,#001f3f,White Variant,#FFFFFF
+Olive Green Variant,#3D9970,Beige Variant,#F5F5DC
+Rust Orange Variant,#B7410E,Cream Variant,#FFFDD0
+Lavender Variant,#E6E6FA,Gray Variant,#808080
+Red Variant,#FF4136,Black Variant,#111111
+Cobalt Blue Variant,#0047AB,Yellow Variant,#FFFF00
+Mint Green Variant,#98FF98,Peach Variant,#FFDAB9
+White Variant,#FFFFFF,Camel Brown Variant,#C19A6B
+Emerald Green Variant,#50C878,Gold Variant,#FFD700
+Baby Blue Variant,#89CFF0,Light Pink Variant,#FFB6C1
+Purple Variant,#800080,Silver Variant,#C0C0C0
+Black Variant,#000000,Maroon Variant,#800000
+Teal Variant,#008080,Coral Variant,#FF7F50
+Rose Pink Variant,#FF66CC,Champagne Variant,#F7E7CE
+Mustard Yellow Variant,#FFDB58,Olive Green Variant,#808000
+Gray Variant,#BEBEBE,Sky Blue Variant,#87CEEB
+Burgundy Variant,#800020,Blush Pink Variant,#DE5D83
+Denim Blue Variant,#1560BD,Ivory Variant,#FFFFF0
+Turquoise Variant,#40E0D0,Chocolate Brown Variant,#D2691E
+Charcoal Gray Variant,#36454F,Light Beige Variant,#F5F5DC
+Navy Blue Variant,#001f3f,White Variant,#FFFFFF
+Olive Green Variant,#3D9970,Beige Variant,#F5F5DC
+Rust Orange Variant,#B7410E,Cream Variant,#FFFDD0
+Lavender Variant,#E6E6FA,Gray Variant,#808080
+Red Variant,#FF4136,Black Variant,#111111
+Cobalt Blue Variant,#0047AB,Yellow Variant,#FFFF00
+Mint Green Variant,#98FF98,Peach Variant,#FFDAB9
+White Variant,#FFFFFF,Camel Brown Variant,#C19A6B
+Emerald Green Variant,#50C878,Gold Variant,#FFD700
+Baby Blue Variant,#89CFF0,Light Pink Variant,#FFB6C1
+Purple Variant,#800080,Silver Variant,#C0C0C0
+Black Variant,#000000,Maroon Variant,#800000
+Teal Variant,#008080,Coral Variant,#FF7F50
+Rose Pink Variant,#FF66CC,Champagne Variant,#F7E7CE
+Mustard Yellow Variant,#FFDB58,Olive Green Variant,#808000
+Gray Variant,#BEBEBE,Sky Blue Variant,#87CEEB
+Burgundy Variant,#800020,Blush Pink Variant,#DE5D83
+Denim Blue Variant,#1560BD,Ivory Variant,#FFFFF0
+Turquoise Variant,#40E0D0,Chocolate Brown Variant,#D2691E
+Charcoal Gray Variant,#36454F,Light Beige Variant,#F5F5DC
+Navy Blue Variant,#001f3f,White Variant,#FFFFFF
+Olive Green Variant,#3D9970,Beige Variant,#F5F5DC
+Rust Orange Variant,#B7410E,Cream Variant,#FFFDD0
+Lavender Variant,#E6E6FA,Gray Variant,#808080
+Red Variant,#FF4136,Black Variant,#111111
+Cobalt Blue Variant,#0047AB,Yellow Variant,#FFFF00
+Mint Green Variant,#98FF98,Peach Variant,#FFDAB9
+White Variant,#FFFFFF,Camel Brown Variant,#C19A6B
+Emerald Green Variant,#50C878,Gold Variant,#FFD700
+Baby Blue Variant,#89CFF0,Light Pink Variant,#FFB6C1
+Purple Variant,#800080,Silver Variant,#C0C0C0
+Black Variant,#000000,Maroon Variant,#800000
+Teal Variant,#008080,Coral Variant,#FF7F50
+Rose Pink Variant,#FF66CC,Champagne Variant,#F7E7CE
+Mustard Yellow Variant,#FFDB58,Olive Green Variant,#808000
+Gray Variant,#BEBEBE,Sky Blue Variant,#87CEEB
+Burgundy Variant,#800020,Blush Pink Variant,#DE5D83
+Denim Blue Variant,#1560BD,Ivory Variant,#FFFFF0
+Turquoise Variant,#40E0D0,Chocolate Brown Variant,#D2691E
+Charcoal Gray Variant,#36454F,Light Beige Variant,#F5F5DC
+Navy Blue Variant,#001f3f,White Variant,#FFFFFF
+Olive Green Variant,#3D9970,Beige Variant,#F5F5DC
+Rust Orange Variant,#B7410E,Cream Variant,#FFFDD0
+Lavender Variant,#E6E6FA,Gray Variant,#808080
+Red Variant,#FF4136,Black Variant,#111111
+Cobalt Blue Variant,#0047AB,Yellow Variant,#FFFF00
+Mint Green Variant,#98FF98,Peach Variant,#FFDAB9
+White Variant,#FFFFFF,Camel Brown Variant,#C19A6B
+Emerald Green Variant,#50C878,Gold Variant,#FFD700
+Baby Blue Variant,#89CFF0,Light Pink Variant,#FFB6C1
+Purple Variant,#800080,Silver Variant,#C0C0C0
+Black Variant,#000000,Maroon Variant,#800000
+Teal Variant,#008080,Coral Variant,#FF7F50
+Rose Pink Variant,#FF66CC,Champagne Variant,#F7E7CE
+Mustard Yellow Variant,#FFDB58,Olive Green Variant,#808000
+Gray Variant,#BEBEBE,Sky Blue Variant,#87CEEB
+Burgundy Variant,#800020,Blush Pink Variant,#DE5D83
+Denim Blue Variant,#1560BD,Ivory Variant,#FFFFF0
+Turquoise Variant,#40E0D0,Chocolate Brown Variant,#D2691E
+Charcoal Gray Variant,#36454F,Light Beige Variant,#F5F5DC
+Navy Blue Variant,#001f3f,White Variant,#FFFFFF
+Olive Green Variant,#3D9970,Beige Variant,#F5F5DC
+Rust Orange Variant,#B7410E,Cream Variant,#FFFDD0
+Lavender Variant,#E6E6FA,Gray Variant,#808080
+Red Variant,#FF4136,Black Variant,#111111
+Cobalt Blue Variant,#0047AB,Yellow Variant,#FFFF00
+Mint Green Variant,#98FF98,Peach Variant,#FFDAB9
+White Variant,#FFFFFF,Camel Brown Variant,#C19A6B
+Emerald Green Variant,#50C878,Gold Variant,#FFD700
+Baby Blue Variant,#89CFF0,Light Pink Variant,#FFB6C1
+Purple Variant,#800080,Silver Variant,#C0C0C0
+Black Variant,#000000,Maroon Variant,#800000
+Teal Variant,#008080,Coral Variant,#FF7F50
+Rose Pink Variant,#FF66CC,Champagne Variant,#F7E7CE
+Mustard Yellow Variant,#FFDB58,Olive Green Variant,#808000
+Gray Variant,#BEBEBE,Sky Blue Variant,#87CEEB
+Burgundy Variant,#800020,Blush Pink Variant,#DE5D83
+Denim Blue Variant,#1560BD,Ivory Variant,#FFFFF0
+Turquoise Variant,#40E0D0,Chocolate Brown Variant,#D2691E
+Charcoal Gray Variant,#36454F,Light Beige Variant,#F5F5DC
+Navy Blue Variant,#001f3f,White Variant,#FFFFFF
+Olive Green Variant,#3D9970,Beige Variant,#F5F5DC
+Rust Orange Variant,#B7410E,Cream Variant,#FFFDD0
+Lavender Variant,#E6E6FA,Gray Variant,#808080
+Red Variant,#FF4136,Black Variant,#111111
+Cobalt Blue Variant,#0047AB,Yellow Variant,#FFFF00
+Mint Green Variant,#98FF98,Peach Variant,#FFDAB9
+White Variant,#FFFFFF,Camel Brown Variant,#C19A6B
+Emerald Green Variant,#50C878,Gold Variant,#FFD700
+Baby Blue Variant,#89CFF0,Light Pink Variant,#FFB6C1
+Purple Variant,#800080,Silver Variant,#C0C0C0
+Black Variant,#000000,Maroon Variant,#800000
+Teal Variant,#008080,Coral Variant,#FF7F50
+Rose Pink Variant,#FF66CC,Champagne Variant,#F7E7CE
+Mustard Yellow Variant,#FFDB58,Olive Green Variant,#808000
+Gray Variant,#BEBEBE,Sky Blue Variant,#87CEEB
+Burgundy Variant,#800020,Blush Pink Variant,#DE5D83
+Denim Blue Variant,#1560BD,Ivory Variant,#FFFFF0
+Turquoise Variant,#40E0D0,Chocolate Brown Variant,#D2691E
+Charcoal Gray Variant,#36454F,Light Beige Variant,#F5F5DC
+Navy Blue Variant,#001f3f,White Variant,#FFFFFF
+Olive Green Variant,#3D9970,Beige Variant,#F5F5DC
+Rust Orange Variant,#B7410E,Cream Variant,#FFFDD0
+Lavender Variant,#E6E6FA,Gray Variant,#808080
+Red Variant,#FF4136,Black Variant,#111111
+Cobalt Blue Variant,#0047AB,Yellow Variant,#FFFF00
+Mint Green Variant,#98FF98,Peach Variant,#FFDAB9
+White Variant,#FFFFFF,Camel Brown Variant,#C19A6B
+Emerald Green Variant,#50C878,Gold Variant,#FFD700
+Baby Blue Variant,#89CFF0,Light Pink Variant,#FFB6C1
+Purple Variant,#800080,Silver Variant,#C0C0C0
+Black Variant,#000000,Maroon Variant,#800000
+Teal Variant,#008080,Coral Variant,#FF7F50
+Rose Pink Variant,#FF66CC,Champagne Variant,#F7E7CE
+Mustard Yellow Variant,#FFDB58,Olive Green Variant,#808000
+Gray Variant,#BEBEBE,Sky Blue Variant,#87CEEB
+Burgundy Variant,#800020,Blush Pink Variant,#DE5D83
+Denim Blue Variant,#1560BD,Ivory Variant,#FFFFF0
+Turquoise Variant,#40E0D0,Chocolate Brown Variant,#D2691E
+Charcoal Gray Variant,#36454F,Light Beige Variant,#F5F5DC
+Navy Blue Variant,#001f3f,White Variant,#FFFFFF
+Olive Green Variant,#3D9970,Beige Variant,#F5F5DC
+Rust Orange Variant,#B7410E,Cream Variant,#FFFDD0
+Lavender Variant,#E6E6FA,Gray Variant,#808080
+Red Variant,#FF4136,Black Variant,#111111
+Cobalt Blue Variant,#0047AB,Yellow Variant,#FFFF00
+Mint Green Variant,#98FF98,Peach Variant,#FFDAB9
+White Variant,#FFFFFF,Camel Brown Variant,#C19A6B
+Emerald Green Variant,#50C878,Gold Variant,#FFD700
+Baby Blue Variant,#89CFF0,Light Pink Variant,#FFB6C1
+Purple Variant,#800080,Silver Variant,#C0C0C0
+Black Variant,#000000,Maroon Variant,#800000
+Teal Variant,#008080,Coral Variant,#FF7F50
+Rose Pink Variant,#FF66CC,Champagne Variant,#F7E7CE
+Mustard Yellow Variant,#FFDB58,Olive Green Variant,#808000
+Gray Variant,#BEBEBE,Sky Blue Variant,#87CEEB
+Burgundy Variant,#800020,Blush Pink Variant,#DE5D83
+Denim Blue Variant,#1560BD,Ivory Variant,#FFFFF0
+Turquoise Variant,#40E0D0,Chocolate Brown Variant,#D2691E
+Charcoal Gray Variant,#36454F,Light Beige Variant,#F5F5DC
+Navy Blue Variant,#001f3f,White Variant,#FFFFFF
+Olive Green Variant,#3D9970,Beige Variant,#F5F5DC
+Rust Orange Variant,#B7410E,Cream Variant,#FFFDD0
+Lavender Variant,#E6E6FA,Gray Variant,#808080
+Red Variant,#FF4136,Black Variant,#111111
+Cobalt Blue Variant,#0047AB,Yellow Variant,#FFFF00
+Mint Green Variant,#98FF98,Peach Variant,#FFDAB9
+White Variant,#FFFFFF,Camel Brown Variant,#C19A6B
+Emerald Green Variant,#50C878,Gold Variant,#FFD700
+Baby Blue Variant,#89CFF0,Light Pink Variant,#FFB6C1
+Purple Variant,#800080,Silver Variant,#C0C0C0
+Black Variant,#000000,Maroon Variant,#800000
+Teal Variant,#008080,Coral Variant,#FF7F50
+Rose Pink Variant,#FF66CC,Champagne Variant,#F7E7CE
+Mustard Yellow Variant,#FFDB58,Olive Green Variant,#808000
+Gray Variant,#BEBEBE,Sky Blue Variant,#87CEEB
+Burgundy Variant,#800020,Blush Pink Variant,#DE5D83
+Denim Blue Variant,#1560BD,Ivory Variant,#FFFFF0
+Turquoise Variant,#40E0D0,Chocolate Brown Variant,#D2691E
+Charcoal Gray Variant,#36454F,Light Beige Variant,#F5F5DC
+Navy Blue Variant,#001f3f,White Variant,#FFFFFF
+Olive Green Variant,#3D9970,Beige Variant,#F5F5DC
+Rust Orange Variant,#B7410E,Cream Variant,#FFFDD0
+Lavender Variant,#E6E6FA,Gray Variant,#808080
+Red Variant,#FF4136,Black Variant,#111111
+Cobalt Blue Variant,#0047AB,Yellow Variant,#FFFF00
+Mint Green Variant,#98FF98,Peach Variant,#FFDAB9
+White Variant,#FFFFFF,Camel Brown Variant,#C19A6B
+Emerald Green Variant,#50C878,Gold Variant,#FFD700
+Baby Blue Variant,#89CFF0,Light Pink Variant,#FFB6C1
+Purple Variant,#800080,Silver Variant,#C0C0C0
+Black Variant,#000000,Maroon Variant,#800000
+Teal Variant,#008080,Coral Variant,#FF7F50
+Rose Pink Variant,#FF66CC,Champagne Variant,#F7E7CE
+Mustard Yellow Variant,#FFDB58,Olive Green Variant,#808000
+Gray Variant,#BEBEBE,Sky Blue Variant,#87CEEB
+Burgundy Variant,#800020,Blush Pink Variant,#DE5D83
+Denim Blue Variant,#1560BD,Ivory Variant,#FFFFF0
+Turquoise Variant,#40E0D0,Chocolate Brown Variant,#D2691E
+Charcoal Gray Variant,#36454F,Light Beige Variant,#F5F5DC
+Navy Blue Variant,#001f3f,White Variant,#FFFFFF
+Olive Green Variant,#3D9970,Beige Variant,#F5F5DC
+Rust Orange Variant,#B7410E,Cream Variant,#FFFDD0
+Lavender Variant,#E6E6FA,Gray Variant,#808080
+Red Variant,#FF4136,Black Variant,#111111
+Cobalt Blue Variant,#0047AB,Yellow Variant,#FFFF00
+Mint Green Variant,#98FF98,Peach Variant,#FFDAB9
+White Variant,#FFFFFF,Camel Brown Variant,#C19A6B
+Emerald Green Variant,#50C878,Gold Variant,#FFD700
+Baby Blue Variant,#89CFF0,Light Pink Variant,#FFB6C1
+Purple Variant,#800080,Silver Variant,#C0C0C0
+Black Variant,#000000,Maroon Variant,#800000
+Teal Variant,#008080,Coral Variant,#FF7F50
+Rose Pink Variant,#FF66CC,Champagne Variant,#F7E7CE
+Mustard Yellow Variant,#FFDB58,Olive Green Variant,#808000
+Gray Variant,#BEBEBE,Sky Blue Variant,#87CEEB
+Burgundy Variant,#800020,Blush Pink Variant,#DE5D83
+Denim Blue Variant,#1560BD,Ivory Variant,#FFFFF0
+Turquoise Variant,#40E0D0,Chocolate Brown Variant,#D2691E
+Charcoal Gray Variant,#36454F,Light Beige Variant,#F5F5DC
+Navy Blue Variant,#001f3f,White Variant,#FFFFFF
+Olive Green Variant,#3D9970,Beige Variant,#F5F5DC
+Rust Orange Variant,#B7410E,Cream Variant,#FFFDD0
+Lavender Variant,#E6E6FA,Gray Variant,#808080
+Red Variant,#FF4136,Black Variant,#111111
+Cobalt Blue Variant,#0047AB,Yellow Variant,#FFFF00
+Mint Green Variant,#98FF98,Peach Variant,#FFDAB9
+White Variant,#FFFFFF,Camel Brown Variant,#C19A6B
+Emerald Green Variant,#50C878,Gold Variant,#FFD700
+Baby Blue Variant,#89CFF0,Light Pink Variant,#FFB6C1
+Purple Variant,#800080,Silver Variant,#C0C0C0
+Black Variant,#000000,Maroon Variant,#800000
+Teal Variant,#008080,Coral Variant,#FF7F50
+Rose Pink Variant,#FF66CC,Champagne Variant,#F7E7CE
+Mustard Yellow Variant,#FFDB58,Olive Green Variant,#808000
+Gray Variant,#BEBEBE,Sky Blue Variant,#87CEEB
+Burgundy Variant,#800020,Blush Pink Variant,#DE5D83
+Denim Blue Variant,#1560BD,Ivory Variant,#FFFFF0
+Turquoise Variant,#40E0D0,Chocolate Brown Variant,#D2691E
+Charcoal Gray Variant,#36454F,Light Beige Variant,#F5F5DC
+Navy Blue Variant,#001f3f,White Variant,#FFFFFF
+Olive Green Variant,#3D9970,Beige Variant,#F5F5DC
+Rust Orange Variant,#B7410E,Cream Variant,#FFFDD0
+Lavender Variant,#E6E6FA,Gray Variant,#808080
+Red Variant,#FF4136,Black Variant,#111111
+Cobalt Blue Variant,#0047AB,Yellow Variant,#FFFF00
+Mint Green Variant,#98FF98,Peach Variant,#FFDAB9
+White Variant,#FFFFFF,Camel Brown Variant,#C19A6B
+Emerald Green Variant,#50C878,Gold Variant,#FFD700
+Baby Blue Variant,#89CFF0,Light Pink Variant,#FFB6C1
+Purple Variant,#800080,Silver Variant,#C0C0C0
+Black Variant,#000000,Maroon Variant,#800000
+Teal Variant,#008080,Coral Variant,#FF7F50
+Rose Pink Variant,#FF66CC,Champagne Variant,#F7E7CE
+Mustard Yellow Variant,#FFDB58,Olive Green Variant,#808000
+Gray Variant,#BEBEBE,Sky Blue Variant,#87CEEB
+Burgundy Variant,#800020,Blush Pink Variant,#DE5D83
+Denim Blue Variant,#1560BD,Ivory Variant,#FFFFF0
+Turquoise Variant,#40E0D0,Chocolate Brown Variant,#D2691E
+Charcoal Gray Variant,#36454F,Light Beige Variant,#F5F5DC
+Navy Blue Variant,#001f3f,White Variant,#FFFFFF
+Olive Green Variant,#3D9970,Beige Variant,#F5F5DC
+Rust Orange Variant,#B7410E,Cream Variant,#FFFDD0
+Lavender Variant,#E6E6FA,Gray Variant,#808080
+Red Variant,#FF4136,Black Variant,#111111
+Cobalt Blue Variant,#0047AB,Yellow Variant,#FFFF00
+Mint Green Variant,#98FF98,Peach Variant,#FFDAB9
+White Variant,#FFFFFF,Camel Brown Variant,#C19A6B
+Emerald Green Variant,#50C878,Gold Variant,#FFD700
+Baby Blue Variant,#89CFF0,Light Pink Variant,#FFB6C1
+Purple Variant,#800080,Silver Variant,#C0C0C0
+Black Variant,#000000,Maroon Variant,#800000
+Teal Variant,#008080,Coral Variant,#FF7F50
+Rose Pink Variant,#FF66CC,Champagne Variant,#F7E7CE
+Mustard Yellow Variant,#FFDB58,Olive Green Variant,#808000
+Gray Variant,#BEBEBE,Sky Blue Variant,#87CEEB
+Burgundy Variant,#800020,Blush Pink Variant,#DE5D83
+Denim Blue Variant,#1560BD,Ivory Variant,#FFFFF0
+Turquoise Variant,#40E0D0,Chocolate Brown Variant,#D2691E
+Charcoal Gray Variant,#36454F,Light Beige Variant,#F5F5DC
+Navy Blue Variant,#001f3f,White Variant,#FFFFFF
+Olive Green Variant,#3D9970,Beige Variant,#F5F5DC
+Rust Orange Variant,#B7410E,Cream Variant,#FFFDD0
+Lavender Variant,#E6E6FA,Gray Variant,#808080
+Red Variant,#FF4136,Black Variant,#111111
+Cobalt Blue Variant,#0047AB,Yellow Variant,#FFFF00
+Mint Green Variant,#98FF98,Peach Variant,#FFDAB9
+White Variant,#FFFFFF,Camel Brown Variant,#C19A6B
+Emerald Green Variant,#50C878,Gold Variant,#FFD700
+Baby Blue Variant,#89CFF0,Light Pink Variant,#FFB6C1
+Purple Variant,#800080,Silver Variant,#C0C0C0
+Black Variant,#000000,Maroon Variant,#800000
+Teal Variant,#008080,Coral Variant,#FF7F50
+Rose Pink Variant,#FF66CC,Champagne Variant,#F7E7CE
+Mustard Yellow Variant,#FFDB58,Olive Green Variant,#808000
+Gray Variant,#BEBEBE,Sky Blue Variant,#87CEEB
+Burgundy Variant,#800020,Blush Pink Variant,#DE5D83
+Denim Blue Variant,#1560BD,Ivory Variant,#FFFFF0
+Turquoise Variant,#40E0D0,Chocolate Brown Variant,#D2691E
+Charcoal Gray Variant,#36454F,Light Beige Variant,#F5F5DC
+Navy Blue Variant,#001f3f,White Variant,#FFFFFF
+Olive Green Variant,#3D9970,Beige Variant,#F5F5DC
+Rust Orange Variant,#B7410E,Cream Variant,#FFFDD0
+Lavender Variant,#E6E6FA,Gray Variant,#808080
+Red Variant,#FF4136,Black Variant,#111111
+Cobalt Blue Variant,#0047AB,Yellow Variant,#FFFF00
+Mint Green Variant,#98FF98,Peach Variant,#FFDAB9
+White Variant,#FFFFFF,Camel Brown Variant,#C19A6B
+Emerald Green Variant,#50C878,Gold Variant,#FFD700
+Baby Blue Variant,#89CFF0,Light Pink Variant,#FFB6C1
+Purple Variant,#800080,Silver Variant,#C0C0C0
+Black Variant,#000000,Maroon Variant,#800000
+Teal Variant,#008080,Coral Variant,#FF7F50
+Rose Pink Variant,#FF66CC,Champagne Variant,#F7E7CE
+Mustard Yellow Variant,#FFDB58,Olive Green Variant,#808000
+Gray Variant,#BEBEBE,Sky Blue Variant,#87CEEB
+Burgundy Variant,#800020,Blush Pink Variant,#DE5D83
+Denim Blue Variant,#1560BD,Ivory Variant,#FFFFF0
+Turquoise Variant,#40E0D0,Chocolate Brown Variant,#D2691E
+Charcoal Gray Variant,#36454F,Light Beige Variant,#F5F5DC
+Navy Blue Variant,#001f3f,White Variant,#FFFFFF
+Olive Green Variant,#3D9970,Beige Variant,#F5F5DC
+Rust Orange Variant,#B7410E,Cream Variant,#FFFDD0
+Lavender Variant,#E6E6FA,Gray Variant,#808080
+Red Variant,#FF4136,Black Variant,#111111
+Cobalt Blue Variant,#0047AB,Yellow Variant,#FFFF00
+Mint Green Variant,#98FF98,Peach Variant,#FFDAB9
+White Variant,#FFFFFF,Camel Brown Variant,#C19A6B
+Emerald Green Variant,#50C878,Gold Variant,#FFD700
+Baby Blue Variant,#89CFF0,Light Pink Variant,#FFB6C1
+Purple Variant,#800080,Silver Variant,#C0C0C0
+Black Variant,#000000,Maroon Variant,#800000
+Teal Variant,#008080,Coral Variant,#FF7F50
+Rose Pink Variant,#FF66CC,Champagne Variant,#F7E7CE
+Mustard Yellow Variant,#FFDB58,Olive Green Variant,#808000
+Gray Variant,#BEBEBE,Sky Blue Variant,#87CEEB
+Burgundy Variant,#800020,Blush Pink Variant,#DE5D83
+Denim Blue Variant,#1560BD,Ivory Variant,#FFFFF0
+Turquoise Variant,#40E0D0,Chocolate Brown Variant,#D2691E
+Charcoal Gray Variant,#36454F,Light Beige Variant,#F5F5DC
+Navy Blue Variant,#001f3f,White Variant,#FFFFFF
+Olive Green Variant,#3D9970,Beige Variant,#F5F5DC
+Rust Orange Variant,#B7410E,Cream Variant,#FFFDD0
+Lavender Variant,#E6E6FA,Gray Variant,#808080
+Red Variant,#FF4136,Black Variant,#111111
+Cobalt Blue Variant,#0047AB,Yellow Variant,#FFFF00
+Mint Green Variant,#98FF98,Peach Variant,#FFDAB9
+White Variant,#FFFFFF,Camel Brown Variant,#C19A6B
+Emerald Green Variant,#50C878,Gold Variant,#FFD700
+Baby Blue Variant,#89CFF0,Light Pink Variant,#FFB6C1
+Purple Variant,#800080,Silver Variant,#C0C0C0
+Black Variant,#000000,Maroon Variant,#800000
+Teal Variant,#008080,Coral Variant,#FF7F50
+Rose Pink Variant,#FF66CC,Champagne Variant,#F7E7CE
+Mustard Yellow Variant,#FFDB58,Olive Green Variant,#808000
+Gray Variant,#BEBEBE,Sky Blue Variant,#87CEEB
+Burgundy Variant,#800020,Blush Pink Variant,#DE5D83
+Denim Blue Variant,#1560BD,Ivory Variant,#FFFFF0
+Turquoise Variant,#40E0D0,Chocolate Brown Variant,#D2691E
+Charcoal Gray Variant,#36454F,Light Beige Variant,#F5F5DC
+Navy Blue Variant,#001f3f,White Variant,#FFFFFF
+Olive Green Variant,#3D9970,Beige Variant,#F5F5DC
+Rust Orange Variant,#B7410E,Cream Variant,#FFFDD0
+Lavender Variant,#E6E6FA,Gray Variant,#808080
+Red Variant,#FF4136,Black Variant,#111111
+Cobalt Blue Variant,#0047AB,Yellow Variant,#FFFF00
+Mint Green Variant,#98FF98,Peach Variant,#FFDAB9
+White Variant,#FFFFFF,Camel Brown Variant,#C19A6B
+Emerald Green Variant,#50C878,Gold Variant,#FFD700
+Baby Blue Variant,#89CFF0,Light Pink Variant,#FFB6C1
+Purple Variant,#800080,Silver Variant,#C0C0C0
+Black Variant,#000000,Maroon Variant,#800000
+Teal Variant,#008080,Coral Variant,#FF7F50
+Rose Pink Variant,#FF66CC,Champagne Variant,#F7E7CE
+Mustard Yellow Variant,#FFDB58,Olive Green Variant,#808000
+Gray Variant,#BEBEBE,Sky Blue Variant,#87CEEB
+Burgundy Variant,#800020,Blush Pink Variant,#DE5D83
+Denim Blue Variant,#1560BD,Ivory Variant,#FFFFF0
+Turquoise Variant,#40E0D0,Chocolate Brown Variant,#D2691E
+Charcoal Gray Variant,#36454F,Light Beige Variant,#F5F5DC
+Navy Blue Variant,#001f3f,White Variant,#FFFFFF
+Olive Green Variant,#3D9970,Beige Variant,#F5F5DC
+Rust Orange Variant,#B7410E,Cream Variant,#FFFDD0
+Lavender Variant,#E6E6FA,Gray Variant,#808080
+Red Variant,#FF4136,Black Variant,#111111
+Cobalt Blue Variant,#0047AB,Yellow Variant,#FFFF00
+Mint Green Variant,#98FF98,Peach Variant,#FFDAB9
+White Variant,#FFFFFF,Camel Brown Variant,#C19A6B
+Emerald Green Variant,#50C878,Gold Variant,#FFD700
+Baby Blue Variant,#89CFF0,Light Pink Variant,#FFB6C1
+Purple Variant,#800080,Silver Variant,#C0C0C0
+Black Variant,#000000,Maroon Variant,#800000
+Teal Variant,#008080,Coral Variant,#FF7F50
+Rose Pink Variant,#FF66CC,Champagne Variant,#F7E7CE
+Mustard Yellow Variant,#FFDB58,Olive Green Variant,#808000
+Gray Variant,#BEBEBE,Sky Blue Variant,#87CEEB
+Burgundy Variant,#800020,Blush Pink Variant,#DE5D83
+Denim Blue Variant,#1560BD,Ivory Variant,#FFFFF0
+Turquoise Variant,#40E0D0,Chocolate Brown Variant,#D2691E
+Charcoal Gray Variant,#36454F,Light Beige Variant,#F5F5DC
+Navy Blue Variant,#001f3f,White Variant,#FFFFFF
+Olive Green Variant,#3D9970,Beige Variant,#F5F5DC
+Rust Orange Variant,#B7410E,Cream Variant,#FFFDD0
+Lavender Variant,#E6E6FA,Gray Variant,#808080
+Red Variant,#FF4136,Black Variant,#111111
+Cobalt Blue Variant,#0047AB,Yellow Variant,#FFFF00
+Mint Green Variant,#98FF98,Peach Variant,#FFDAB9
+White Variant,#FFFFFF,Camel Brown Variant,#C19A6B
+Emerald Green Variant,#50C878,Gold Variant,#FFD700
+Baby Blue Variant,#89CFF0,Light Pink Variant,#FFB6C1
+Purple Variant,#800080,Silver Variant,#C0C0C0
+Black Variant,#000000,Maroon Variant,#800000
+Teal Variant,#008080,Coral Variant,#FF7F50
+Rose Pink Variant,#FF66CC,Champagne Variant,#F7E7CE
+Mustard Yellow Variant,#FFDB58,Olive Green Variant,#808000
+Gray Variant,#BEBEBE,Sky Blue Variant,#87CEEB
+Burgundy Variant,#800020,Blush Pink Variant,#DE5D83
+Denim Blue Variant,#1560BD,Ivory Variant,#FFFFF0
+Turquoise Variant,#40E0D0,Chocolate Brown Variant,#D2691E
+Charcoal Gray Variant,#36454F,Light Beige Variant,#F5F5DC
+Navy Blue Variant,#001f3f,White Variant,#FFFFFF
+Olive Green Variant,#3D9970,Beige Variant,#F5F5DC
+Rust Orange Variant,#B7410E,Cream Variant,#FFFDD0
+Lavender Variant,#E6E6FA,Gray Variant,#808080
+Red Variant,#FF4136,Black Variant,#111111
+Cobalt Blue Variant,#0047AB,Yellow Variant,#FFFF00
+Mint Green Variant,#98FF98,Peach Variant,#FFDAB9
+White Variant,#FFFFFF,Camel Brown Variant,#C19A6B
+Emerald Green Variant,#50C878,Gold Variant,#FFD700
+Baby Blue Variant,#89CFF0,Light Pink Variant,#FFB6C1
+Purple Variant,#800080,Silver Variant,#C0C0C0
+Black Variant,#000000,Maroon Variant,#800000
+Teal Variant,#008080,Coral Variant,#FF7F50
+Rose Pink Variant,#FF66CC,Champagne Variant,#F7E7CE
+Mustard Yellow Variant,#FFDB58,Olive Green Variant,#808000
+Gray Variant,#BEBEBE,Sky Blue Variant,#87CEEB
+Burgundy Variant,#800020,Blush Pink Variant,#DE5D83
+Denim Blue Variant,#1560BD,Ivory Variant,#FFFFF0
+Turquoise Variant,#40E0D0,Chocolate Brown Variant,#D2691E
+Charcoal Gray Variant,#36454F,Light Beige Variant,#F5F5DC
+Navy Blue Variant,#001f3f,White Variant,#FFFFFF
+Olive Green Variant,#3D9970,Beige Variant,#F5F5DC
+Rust Orange Variant,#B7410E,Cream Variant,#FFFDD0
+Lavender Variant,#E6E6FA,Gray Variant,#808080
+Red Variant,#FF4136,Black Variant,#111111
+Cobalt Blue Variant,#0047AB,Yellow Variant,#FFFF00
+Mint Green Variant,#98FF98,Peach Variant,#FFDAB9
+White Variant,#FFFFFF,Camel Brown Variant,#C19A6B
+Emerald Green Variant,#50C878,Gold Variant,#FFD700
+Baby Blue Variant,#89CFF0,Light Pink Variant,#FFB6C1
+Purple Variant,#800080,Silver Variant,#C0C0C0
+Black Variant,#000000,Maroon Variant,#800000
+Teal Variant,#008080,Coral Variant,#FF7F50
+Rose Pink Variant,#FF66CC,Champagne Variant,#F7E7CE
+Mustard Yellow Variant,#FFDB58,Olive Green Variant,#808000
+Gray Variant,#BEBEBE,Sky Blue Variant,#87CEEB
+Burgundy Variant,#800020,Blush Pink Variant,#DE5D83
+Denim Blue Variant,#1560BD,Ivory Variant,#FFFFF0
+Turquoise Variant,#40E0D0,Chocolate Brown Variant,#D2691E
+Charcoal Gray Variant,#36454F,Light Beige Variant,#F5F5DC
+Navy Blue Variant,#001f3f,White Variant,#FFFFFF
+Olive Green Variant,#3D9970,Beige Variant,#F5F5DC
+Rust Orange Variant,#B7410E,Cream Variant,#FFFDD0
+Lavender Variant,#E6E6FA,Gray Variant,#808080
+Red Variant,#FF4136,Black Variant,#111111
+Cobalt Blue Variant,#0047AB,Yellow Variant,#FFFF00
+Mint Green Variant,#98FF98,Peach Variant,#FFDAB9
+White Variant,#FFFFFF,Camel Brown Variant,#C19A6B
+Emerald Green Variant,#50C878,Gold Variant,#FFD700
+Baby Blue Variant,#89CFF0,Light Pink Variant,#FFB6C1
+Purple Variant,#800080,Silver Variant,#C0C0C0
+Black Variant,#000000,Maroon Variant,#800000
+Teal Variant,#008080,Coral Variant,#FF7F50
+Rose Pink Variant,#FF66CC,Champagne Variant,#F7E7CE
+Mustard Yellow Variant,#FFDB58,Olive Green Variant,#808000
+Gray Variant,#BEBEBE,Sky Blue Variant,#87CEEB
+Burgundy Variant,#800020,Blush Pink Variant,#DE5D83
+Denim Blue Variant,#1560BD,Ivory Variant,#FFFFF0
+Turquoise Variant,#40E0D0,Chocolate Brown Variant,#D2691E
+Charcoal Gray Variant,#36454F,Light Beige Variant,#F5F5DC
+Navy Blue Variant,#001f3f,White Variant,#FFFFFF
+Olive Green Variant,#3D9970,Beige Variant,#F5F5DC
+Rust Orange Variant,#B7410E,Cream Variant,#FFFDD0
+Lavender Variant,#E6E6FA,Gray Variant,#808080
+Red Variant,#FF4136,Black Variant,#111111
+Cobalt Blue Variant,#0047AB,Yellow Variant,#FFFF00
+Mint Green Variant,#98FF98,Peach Variant,#FFDAB9
+White Variant,#FFFFFF,Camel Brown Variant,#C19A6B
+Emerald Green Variant,#50C878,Gold Variant,#FFD700
+Baby Blue Variant,#89CFF0,Light Pink Variant,#FFB6C1
+Purple Variant,#800080,Silver Variant,#C0C0C0
+Black Variant,#000000,Maroon Variant,#800000
+Teal Variant,#008080,Coral Variant,#FF7F50
+Rose Pink Variant,#FF66CC,Champagne Variant,#F7E7CE
+Mustard Yellow Variant,#FFDB58,Olive Green Variant,#808000
+Gray Variant,#BEBEBE,Sky Blue Variant,#87CEEB
+Burgundy Variant,#800020,Blush Pink Variant,#DE5D83
+Denim Blue Variant,#1560BD,Ivory Variant,#FFFFF0
+Turquoise Variant,#40E0D0,Chocolate Brown Variant,#D2691E
+Charcoal Gray Variant,#36454F,Light Beige Variant,#F5F5DC
+Navy Blue Variant,#001f3f,White Variant,#FFFFFF
+Olive Green Variant,#3D9970,Beige Variant,#F5F5DC
+Rust Orange Variant,#B7410E,Cream Variant,#FFFDD0
+Lavender Variant,#E6E6FA,Gray Variant,#808080
+Red Variant,#FF4136,Black Variant,#111111
+Cobalt Blue Variant,#0047AB,Yellow Variant,#FFFF00
+Mint Green Variant,#98FF98,Peach Variant,#FFDAB9
+White Variant,#FFFFFF,Camel Brown Variant,#C19A6B
+Emerald Green Variant,#50C878,Gold Variant,#FFD700
+Baby Blue Variant,#89CFF0,Light Pink Variant,#FFB6C1
+Purple Variant,#800080,Silver Variant,#C0C0C0
+Black Variant,#000000,Maroon Variant,#800000
+Teal Variant,#008080,Coral Variant,#FF7F50
+Rose Pink Variant,#FF66CC,Champagne Variant,#F7E7CE
+Mustard Yellow Variant,#FFDB58,Olive Green Variant,#808000
+Gray Variant,#BEBEBE,Sky Blue Variant,#87CEEB
+Burgundy Variant,#800020,Blush Pink Variant,#DE5D83
+Denim Blue Variant,#1560BD,Ivory Variant,#FFFFF0
+Turquoise Variant,#40E0D0,Chocolate Brown Variant,#D2691E
+Charcoal Gray Variant,#36454F,Light Beige Variant,#F5F5DC
+Navy Blue Variant,#001f3f,White Variant,#FFFFFF
+Olive Green Variant,#3D9970,Beige Variant,#F5F5DC
+Rust Orange Variant,#B7410E,Cream Variant,#FFFDD0
+Lavender Variant,#E6E6FA,Gray Variant,#808080
+Red Variant,#FF4136,Black Variant,#111111
+Cobalt Blue Variant,#0047AB,Yellow Variant,#FFFF00
+Mint Green Variant,#98FF98,Peach Variant,#FFDAB9
+White Variant,#FFFFFF,Camel Brown Variant,#C19A6B
+Emerald Green Variant,#50C878,Gold Variant,#FFD700
+Baby Blue Variant,#89CFF0,Light Pink Variant,#FFB6C1
+Purple Variant,#800080,Silver Variant,#C0C0C0
+Black Variant,#000000,Maroon Variant,#800000
+Teal Variant,#008080,Coral Variant,#FF7F50
+Rose Pink Variant,#FF66CC,Champagne Variant,#F7E7CE
+Mustard Yellow Variant,#FFDB58,Olive Green Variant,#808000
+Gray Variant,#BEBEBE,Sky Blue Variant,#87CEEB
+Burgundy Variant,#800020,Blush Pink Variant,#DE5D83
+Denim Blue Variant,#1560BD,Ivory Variant,#FFFFF0
+Turquoise Variant,#40E0D0,Chocolate Brown Variant,#D2691E
+Charcoal Gray Variant,#36454F,Light Beige Variant,#F5F5DC
+Navy Blue Variant,#001f3f,White Variant,#FFFFFF
+Olive Green Variant,#3D9970,Beige Variant,#F5F5DC
+Rust Orange Variant,#B7410E,Cream Variant,#FFFDD0
+Lavender Variant,#E6E6FA,Gray Variant,#808080
+Red Variant,#FF4136,Black Variant,#111111
+Cobalt Blue Variant,#0047AB,Yellow Variant,#FFFF00
+Mint Green Variant,#98FF98,Peach Variant,#FFDAB9
+White Variant,#FFFFFF,Camel Brown Variant,#C19A6B
+Emerald Green Variant,#50C878,Gold Variant,#FFD700
+Baby Blue Variant,#89CFF0,Light Pink Variant,#FFB6C1
+Purple Variant,#800080,Silver Variant,#C0C0C0
+Black Variant,#000000,Maroon Variant,#800000
+Teal Variant,#008080,Coral Variant,#FF7F50
+Rose Pink Variant,#FF66CC,Champagne Variant,#F7E7CE
+Mustard Yellow Variant,#FFDB58,Olive Green Variant,#808000
+Gray Variant,#BEBEBE,Sky Blue Variant,#87CEEB
+Burgundy Variant,#800020,Blush Pink Variant,#DE5D83
+Denim Blue Variant,#1560BD,Ivory Variant,#FFFFF0
+Turquoise Variant,#40E0D0,Chocolate Brown Variant,#D2691E
+Charcoal Gray Variant,#36454F,Light Beige Variant,#F5F5DC
+Navy Blue Variant,#001f3f,White Variant,#FFFFFF
+Olive Green Variant,#3D9970,Beige Variant,#F5F5DC
+Rust Orange Variant,#B7410E,Cream Variant,#FFFDD0
+Lavender Variant,#E6E6FA,Gray Variant,#808080
+Red Variant,#FF4136,Black Variant,#111111
+Cobalt Blue Variant,#0047AB,Yellow Variant,#FFFF00
+Mint Green Variant,#98FF98,Peach Variant,#FFDAB9
+White Variant,#FFFFFF,Camel Brown Variant,#C19A6B
+Emerald Green Variant,#50C878,Gold Variant,#FFD700
+Baby Blue Variant,#89CFF0,Light Pink Variant,#FFB6C1
+Purple Variant,#800080,Silver Variant,#C0C0C0
+Black Variant,#000000,Maroon Variant,#800000
+Teal Variant,#008080,Coral Variant,#FF7F50
+Rose Pink Variant,#FF66CC,Champagne Variant,#F7E7CE
+Mustard Yellow Variant,#FFDB58,Olive Green Variant,#808000
+Gray Variant,#BEBEBE,Sky Blue Variant,#87CEEB
+Burgundy Variant,#800020,Blush Pink Variant,#DE5D83
+Denim Blue Variant,#1560BD,Ivory Variant,#FFFFF0
+Turquoise Variant,#40E0D0,Chocolate Brown Variant,#D2691E
+Charcoal Gray Variant,#36454F,Light Beige Variant,#F5F5DC
+Navy Blue Variant,#001f3f,White Variant,#FFFFFF
+Olive Green Variant,#3D9970,Beige Variant,#F5F5DC
+Rust Orange Variant,#B7410E,Cream Variant,#FFFDD0
+Lavender Variant,#E6E6FA,Gray Variant,#808080
+Red Variant,#FF4136,Black Variant,#111111
+Cobalt Blue Variant,#0047AB,Yellow Variant,#FFFF00
+Mint Green Variant,#98FF98,Peach Variant,#FFDAB9
+White Variant,#FFFFFF,Camel Brown Variant,#C19A6B
+Emerald Green Variant,#50C878,Gold Variant,#FFD700
+Baby Blue Variant,#89CFF0,Light Pink Variant,#FFB6C1
+Purple Variant,#800080,Silver Variant,#C0C0C0
+Black Variant,#000000,Maroon Variant,#800000
+Teal Variant,#008080,Coral Variant,#FF7F50
+Rose Pink Variant,#FF66CC,Champagne Variant,#F7E7CE
+Mustard Yellow Variant,#FFDB58,Olive Green Variant,#808000
+Gray Variant,#BEBEBE,Sky Blue Variant,#87CEEB
+Burgundy Variant,#800020,Blush Pink Variant,#DE5D83
+Denim Blue Variant,#1560BD,Ivory Variant,#FFFFF0
+Turquoise Variant,#40E0D0,Chocolate Brown Variant,#D2691E
+Charcoal Gray Variant,#36454F,Light Beige Variant,#F5F5DC
+Navy Blue Variant,#001f3f,White Variant,#FFFFFF
+Olive Green Variant,#3D9970,Beige Variant,#F5F5DC
+Rust Orange Variant,#B7410E,Cream Variant,#FFFDD0
+Lavender Variant,#E6E6FA,Gray Variant,#808080
+Red Variant,#FF4136,Black Variant,#111111
+Cobalt Blue Variant,#0047AB,Yellow Variant,#FFFF00
+Mint Green Variant,#98FF98,Peach Variant,#FFDAB9
+White Variant,#FFFFFF,Camel Brown Variant,#C19A6B
+Emerald Green Variant,#50C878,Gold Variant,#FFD700
+Baby Blue Variant,#89CFF0,Light Pink Variant,#FFB6C1
+Purple Variant,#800080,Silver Variant,#C0C0C0
+Black Variant,#000000,Maroon Variant,#800000
+Teal Variant,#008080,Coral Variant,#FF7F50
+Rose Pink Variant,#FF66CC,Champagne Variant,#F7E7CE
+Mustard Yellow Variant,#FFDB58,Olive Green Variant,#808000
+Gray Variant,#BEBEBE,Sky Blue Variant,#87CEEB
+Burgundy Variant,#800020,Blush Pink Variant,#DE5D83
+Denim Blue Variant,#1560BD,Ivory Variant,#FFFFF0
+Turquoise Variant,#40E0D0,Chocolate Brown Variant,#D2691E
+Charcoal Gray Variant,#36454F,Light Beige Variant,#F5F5DC
+Navy Blue Variant,#001f3f,White Variant,#FFFFFF
+Olive Green Variant,#3D9970,Beige Variant,#F5F5DC
+Rust Orange Variant,#B7410E,Cream Variant,#FFFDD0
+Lavender Variant,#E6E6FA,Gray Variant,#808080
+Red Variant,#FF4136,Black Variant,#111111
+Cobalt Blue Variant,#0047AB,Yellow Variant,#FFFF00
+Mint Green Variant,#98FF98,Peach Variant,#FFDAB9
+White Variant,#FFFFFF,Camel Brown Variant,#C19A6B
+Emerald Green Variant,#50C878,Gold Variant,#FFD700
+Baby Blue Variant,#89CFF0,Light Pink Variant,#FFB6C1
+Purple Variant,#800080,Silver Variant,#C0C0C0
+Black Variant,#000000,Maroon Variant,#800000
+Teal Variant,#008080,Coral Variant,#FF7F50
+Rose Pink Variant,#FF66CC,Champagne Variant,#F7E7CE
+Mustard Yellow Variant,#FFDB58,Olive Green Variant,#808000
+Gray Variant,#BEBEBE,Sky Blue Variant,#87CEEB
+Burgundy Variant,#800020,Blush Pink Variant,#DE5D83
+Denim Blue Variant,#1560BD,Ivory Variant,#FFFFF0
+Turquoise Variant,#40E0D0,Chocolate Brown Variant,#D2691E
+Charcoal Gray Variant,#36454F,Light Beige Variant,#F5F5DC
+Navy Blue Variant,#001f3f,White Variant,#FFFFFF
+Olive Green Variant,#3D9970,Beige Variant,#F5F5DC
+Rust Orange Variant,#B7410E,Cream Variant,#FFFDD0
+Lavender Variant,#E6E6FA,Gray Variant,#808080
+Red Variant,#FF4136,Black Variant,#111111
+Cobalt Blue Variant,#0047AB,Yellow Variant,#FFFF00
+Mint Green Variant,#98FF98,Peach Variant,#FFDAB9
+White Variant,#FFFFFF,Camel Brown Variant,#C19A6B
+Emerald Green Variant,#50C878,Gold Variant,#FFD700
+Baby Blue Variant,#89CFF0,Light Pink Variant,#FFB6C1
+Purple Variant,#800080,Silver Variant,#C0C0C0
+Black Variant,#000000,Maroon Variant,#800000
+Teal Variant,#008080,Coral Variant,#FF7F50
+Rose Pink Variant,#FF66CC,Champagne Variant,#F7E7CE
+Mustard Yellow Variant,#FFDB58,Olive Green Variant,#808000
+Gray Variant,#BEBEBE,Sky Blue Variant,#87CEEB
+Burgundy Variant,#800020,Blush Pink Variant,#DE5D83
+Denim Blue Variant,#1560BD,Ivory Variant,#FFFFF0
+Turquoise Variant,#40E0D0,Chocolate Brown Variant,#D2691E
+Charcoal Gray Variant,#36454F,Light Beige Variant,#F5F5DC
+Navy Blue Variant,#001f3f,White Variant,#FFFFFF
+Olive Green Variant,#3D9970,Beige Variant,#F5F5DC
+Rust Orange Variant,#B7410E,Cream Variant,#FFFDD0
+Lavender Variant,#E6E6FA,Gray Variant,#808080
+Red Variant,#FF4136,Black Variant,#111111
+Cobalt Blue Variant,#0047AB,Yellow Variant,#FFFF00
+Mint Green Variant,#98FF98,Peach Variant,#FFDAB9
+White Variant,#FFFFFF,Camel Brown Variant,#C19A6B
+Emerald Green Variant,#50C878,Gold Variant,#FFD700
+Baby Blue Variant,#89CFF0,Light Pink Variant,#FFB6C1
+Purple Variant,#800080,Silver Variant,#C0C0C0
+Black Variant,#000000,Maroon Variant,#800000
+Teal Variant,#008080,Coral Variant,#FF7F50
+Rose Pink Variant,#FF66CC,Champagne Variant,#F7E7CE
+Mustard Yellow Variant,#FFDB58,Olive Green Variant,#808000
+Gray Variant,#BEBEBE,Sky Blue Variant,#87CEEB
+Burgundy Variant,#800020,Blush Pink Variant,#DE5D83
+Denim Blue Variant,#1560BD,Ivory Variant,#FFFFF0
+Turquoise Variant,#40E0D0,Chocolate Brown Variant,#D2691E
+Charcoal Gray Variant,#36454F,Light Beige Variant,#F5F5DC
+Navy Blue Variant,#001f3f,White Variant,#FFFFFF
+Olive Green Variant,#3D9970,Beige Variant,#F5F5DC
+Rust Orange Variant,#B7410E,Cream Variant,#FFFDD0
+Lavender Variant,#E6E6FA,Gray Variant,#808080
+Red Variant,#FF4136,Black Variant,#111111
+Cobalt Blue Variant,#0047AB,Yellow Variant,#FFFF00
+Mint Green Variant,#98FF98,Peach Variant,#FFDAB9
+White Variant,#FFFFFF,Camel Brown Variant,#C19A6B
+Emerald Green Variant,#50C878,Gold Variant,#FFD700
+Baby Blue Variant,#89CFF0,Light Pink Variant,#FFB6C1
+Purple Variant,#800080,Silver Variant,#C0C0C0
+Black Variant,#000000,Maroon Variant,#800000
+Teal Variant,#008080,Coral Variant,#FF7F50
+Rose Pink Variant,#FF66CC,Champagne Variant,#F7E7CE
+Mustard Yellow Variant,#FFDB58,Olive Green Variant,#808000
+Gray Variant,#BEBEBE,Sky Blue Variant,#87CEEB
+Burgundy Variant,#800020,Blush Pink Variant,#DE5D83
+Denim Blue Variant,#1560BD,Ivory Variant,#FFFFF0
+Turquoise Variant,#40E0D0,Chocolate Brown Variant,#D2691E
+Charcoal Gray Variant,#36454F,Light Beige Variant,#F5F5DC
+Navy Blue Variant,#001f3f,White Variant,#FFFFFF
+Olive Green Variant,#3D9970,Beige Variant,#F5F5DC
+Rust Orange Variant,#B7410E,Cream Variant,#FFFDD0
+Lavender Variant,#E6E6FA,Gray Variant,#808080
+Red Variant,#FF4136,Black Variant,#111111
+Cobalt Blue Variant,#0047AB,Yellow Variant,#FFFF00
+Mint Green Variant,#98FF98,Peach Variant,#FFDAB9
+White Variant,#FFFFFF,Camel Brown Variant,#C19A6B
+Emerald Green Variant,#50C878,Gold Variant,#FFD700
+Baby Blue Variant,#89CFF0,Light Pink Variant,#FFB6C1
+Purple Variant,#800080,Silver Variant,#C0C0C0
+Black Variant,#000000,Maroon Variant,#800000
+Teal Variant,#008080,Coral Variant,#FF7F50
+Rose Pink Variant,#FF66CC,Champagne Variant,#F7E7CE
+Mustard Yellow Variant,#FFDB58,Olive Green Variant,#808000
+Gray Variant,#BEBEBE,Sky Blue Variant,#87CEEB
+Burgundy Variant,#800020,Blush Pink Variant,#DE5D83
+Denim Blue Variant,#1560BD,Ivory Variant,#FFFFF0
+Turquoise Variant,#40E0D0,Chocolate Brown Variant,#D2691E
+Charcoal Gray Variant,#36454F,Light Beige Variant,#F5F5DC
+Navy Blue Variant,#001f3f,White Variant,#FFFFFF
+Olive Green Variant,#3D9970,Beige Variant,#F5F5DC
+Rust Orange Variant,#B7410E,Cream Variant,#FFFDD0
+Lavender Variant,#E6E6FA,Gray Variant,#808080
+Red Variant,#FF4136,Black Variant,#111111
+Cobalt Blue Variant,#0047AB,Yellow Variant,#FFFF00
+Mint Green Variant,#98FF98,Peach Variant,#FFDAB9
+White Variant,#FFFFFF,Camel Brown Variant,#C19A6B
+Emerald Green Variant,#50C878,Gold Variant,#FFD700
+Baby Blue Variant,#89CFF0,Light Pink Variant,#FFB6C1
+Purple Variant,#800080,Silver Variant,#C0C0C0
+Black Variant,#000000,Maroon Variant,#800000
+Teal Variant,#008080,Coral Variant,#FF7F50
+Rose Pink Variant,#FF66CC,Champagne Variant,#F7E7CE
+Mustard Yellow Variant,#FFDB58,Olive Green Variant,#808000
+Gray Variant,#BEBEBE,Sky Blue Variant,#87CEEB
+Burgundy Variant,#800020,Blush Pink Variant,#DE5D83
+Denim Blue Variant,#1560BD,Ivory Variant,#FFFFF0
+Turquoise Variant,#40E0D0,Chocolate Brown Variant,#D2691E
+Charcoal Gray Variant,#36454F,Light Beige Variant,#F5F5DC
+Navy Blue Variant,#001f3f,White Variant,#FFFFFF
+Olive Green Variant,#3D9970,Beige Variant,#F5F5DC
+Rust Orange Variant,#B7410E,Cream Variant,#FFFDD0
+Lavender Variant,#E6E6FA,Gray Variant,#808080
+Red Variant,#FF4136,Black Variant,#111111
+Cobalt Blue Variant,#0047AB,Yellow Variant,#FFFF00
+Mint Green Variant,#98FF98,Peach Variant,#FFDAB9
+White Variant,#FFFFFF,Camel Brown Variant,#C19A6B
+Emerald Green Variant,#50C878,Gold Variant,#FFD700
+Baby Blue Variant,#89CFF0,Light Pink Variant,#FFB6C1
+Purple Variant,#800080,Silver Variant,#C0C0C0
+Black Variant,#000000,Maroon Variant,#800000
+Teal Variant,#008080,Coral Variant,#FF7F50
+Rose Pink Variant,#FF66CC,Champagne Variant,#F7E7CE
+Mustard Yellow Variant,#FFDB58,Olive Green Variant,#808000
+Gray Variant,#BEBEBE,Sky Blue Variant,#87CEEB
+Burgundy Variant,#800020,Blush Pink Variant,#DE5D83
+Denim Blue Variant,#1560BD,Ivory Variant,#FFFFF0
+Turquoise Variant,#40E0D0,Chocolate Brown Variant,#D2691E
+Charcoal Gray Variant,#36454F,Light Beige Variant,#F5F5DC
+Navy Blue Variant,#001f3f,White Variant,#FFFFFF
+Olive Green Variant,#3D9970,Beige Variant,#F5F5DC
+Rust Orange Variant,#B7410E,Cream Variant,#FFFDD0
+Lavender Variant,#E6E6FA,Gray Variant,#808080
+Red Variant,#FF4136,Black Variant,#111111
+Cobalt Blue Variant,#0047AB,Yellow Variant,#FFFF00
+Mint Green Variant,#98FF98,Peach Variant,#FFDAB9
+White Variant,#FFFFFF,Camel Brown Variant,#C19A6B
+Emerald Green Variant,#50C878,Gold Variant,#FFD700
+Baby Blue Variant,#89CFF0,Light Pink Variant,#FFB6C1
+Purple Variant,#800080,Silver Variant,#C0C0C0
+Black Variant,#000000,Maroon Variant,#800000
+Teal Variant,#008080,Coral Variant,#FF7F50
+Rose Pink Variant,#FF66CC,Champagne Variant,#F7E7CE
+Mustard Yellow Variant,#FFDB58,Olive Green Variant,#808000
+Gray Variant,#BEBEBE,Sky Blue Variant,#87CEEB
+Burgundy Variant,#800020,Blush Pink Variant,#DE5D83
+Denim Blue Variant,#1560BD,Ivory Variant,#FFFFF0
+Turquoise Variant,#40E0D0,Chocolate Brown Variant,#D2691E
+Charcoal Gray Variant,#36454F,Light Beige Variant,#F5F5DC
+Navy Blue Variant,#001f3f,White Variant,#FFFFFF
+Olive Green Variant,#3D9970,Beige Variant,#F5F5DC
+Rust Orange Variant,#B7410E,Cream Variant,#FFFDD0
+Lavender Variant,#E6E6FA,Gray Variant,#808080
+Red Variant,#FF4136,Black Variant,#111111
+Cobalt Blue Variant,#0047AB,Yellow Variant,#FFFF00
+Mint Green Variant,#98FF98,Peach Variant,#FFDAB9
+White Variant,#FFFFFF,Camel Brown Variant,#C19A6B
+Emerald Green Variant,#50C878,Gold Variant,#FFD700
+Baby Blue Variant,#89CFF0,Light Pink Variant,#FFB6C1
+Purple Variant,#800080,Silver Variant,#C0C0C0
+Black Variant,#000000,Maroon Variant,#800000
+Teal Variant,#008080,Coral Variant,#FF7F50
+Rose Pink Variant,#FF66CC,Champagne Variant,#F7E7CE
+Mustard Yellow Variant,#FFDB58,Olive Green Variant,#808000
+Gray Variant,#BEBEBE,Sky Blue Variant,#87CEEB
+Burgundy Variant,#800020,Blush Pink Variant,#DE5D83
+Denim Blue Variant,#1560BD,Ivory Variant,#FFFFF0
+Turquoise Variant,#40E0D0,Chocolate Brown Variant,#D2691E
+Charcoal Gray Variant,#36454F,Light Beige Variant,#F5F5DC
+Navy Blue Variant,#001f3f,White Variant,#FFFFFF
+Olive Green Variant,#3D9970,Beige Variant,#F5F5DC
+Rust Orange Variant,#B7410E,Cream Variant,#FFFDD0
+Lavender Variant,#E6E6FA,Gray Variant,#808080
+Red Variant,#FF4136,Black Variant,#111111
+Cobalt Blue Variant,#0047AB,Yellow Variant,#FFFF00
+Mint Green Variant,#98FF98,Peach Variant,#FFDAB9
+White Variant,#FFFFFF,Camel Brown Variant,#C19A6B
+Emerald Green Variant,#50C878,Gold Variant,#FFD700
+Baby Blue Variant,#89CFF0,Light Pink Variant,#FFB6C1
+Purple Variant,#800080,Silver Variant,#C0C0C0
+Black Variant,#000000,Maroon Variant,#800000
+Teal Variant,#008080,Coral Variant,#FF7F50
+Rose Pink Variant,#FF66CC,Champagne Variant,#F7E7CE
+Mustard Yellow Variant,#FFDB58,Olive Green Variant,#808000
+Gray Variant,#BEBEBE,Sky Blue Variant,#87CEEB
+Burgundy Variant,#800020,Blush Pink Variant,#DE5D83
+Denim Blue Variant,#1560BD,Ivory Variant,#FFFFF0
+Turquoise Variant,#40E0D0,Chocolate Brown Variant,#D2691E
+Charcoal Gray Variant,#36454F,Light Beige Variant,#F5F5DC

@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Clothing Match Checker</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            background-color: #f4f4f9;
+            margin: 0;
+            padding: 20px;
+        }
+        h1 {
+            color: #333;
+        }
+        .container {
+            max-width: 500px;
+            margin: 0 auto;
+            background: #fff;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+        }
+        .file-input {
+            margin: 20px 0;
+        }
+        button {
+            background-color: #007BFF;
+            color: white;
+            border: none;
+            padding: 10px 20px;
+            border-radius: 5px;
+            cursor: pointer;
+            font-size: 16px;
+        }
+        button:hover {
+            background-color: #0056b3;
+        }
+        .result {
+            margin-top: 20px;
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body>
+    <h1>Clothing Match Checker</h1>
+    <div class="container">
+        <form id="uploadForm" enctype="multipart/form-data">
+            <p>Upload a picture of your outfit to check if it matches:</p>
+            <input class="file-input" type="file" name="image" id="imageInput" accept="image/*" required>
+            <br>
+            <button type="button" onclick="checkMatch()">Check Match</button>
+        </form>
+        <div class="result" id="result"></div>
+    </div>
+
+    <script>
+        function checkMatch() {
+            const form = document.getElementById('uploadForm');
+            const formData = new FormData(form);
+
+            fetch('http://127.0.0.1:5000/check-match', {  // Replace with your program
+                method: 'POST',
+                body: formData
+            })
+            .then(response => response.json())
+            .then(data => {
+                const resultDiv = document.getElementById('result');
+                if (data.match) {
+                    resultDiv.textContent = "Your outfit matches perfectly! 🎉";
+                    resultDiv.style.color = "green";
+                } else {
+                    resultDiv.textContent = "Hmm, your outfit may not match. Try again! 😅";
+                    resultDiv.style.color = "red";
+                }
+            })
+            .catch(error => {
+                const resultDiv = document.getElementById('result');
+                resultDiv.textContent = "An error occurred. Please try again.";
+                resultDiv.style.color = "red";
+                console.error('Error:', error);
+            });
+        }
+    </script>
+</body>
+</html>
